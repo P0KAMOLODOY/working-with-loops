@@ -22,7 +22,7 @@ set remainder temp
 
 
 
-? 2. Приближаем дробную часть (остаток * 10000 / 7)
+//Приближаем дробную часть (остаток * 10000 / 7)
 new decimal number
 new i number
 set decimal 0
